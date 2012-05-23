@@ -70,6 +70,9 @@ This plugin has been created independently of [The Guardian](http://www.guardian
 
 ## Changelog ##
 
+# 0.2a #
+* Fixed a Javascript bug.
+
 # 0.1a #
 * Initial alpha release. OH YES, THERE WILL BE BUGS!
 
