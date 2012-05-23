@@ -21,6 +21,8 @@ A backend interface allows specific curations to be taken from n0tice, while a w
 
 Plugin created in cooperation with the [Hackney Citizen](http://www.hackneycitizen.co.uk).
 
+For documentation and more information, visit the plugin's [github project](https://github.com/aendrew/n0tice-wp/).
+
 ## Installation ##
 
 1. Upload the n0tice directory to the `/wp-content/plugins/` directory
