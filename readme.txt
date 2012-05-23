@@ -21,7 +21,11 @@ A backend interface allows specific curations to be taken from n0tice, while a w
 
 Plugin created in cooperation with the [Hackney Citizen](http://www.hackneycitizen.co.uk).
 
+<<<<<<< HEAD
 For more information and documentation, visit the plugin's [github project](https://github.com/aendrew/n0tice-wp/).
+=======
+For more information and documentation, visit the plugin's [github project(https://github.com/aendrew/n0tice-wp/).
+>>>>>>> 1cc19f7e9e664eb23b26ea00c601183d18c9aad2
 
 == Installation ==
 
@@ -56,6 +60,13 @@ This plugin has been created independently of [The Guardian](http://www.guardian
 
 == Known bugs ==
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+1. Clicking "Add another criterion" spawns multiple criteria if there are multiple search fields.
+>>>>>>> 7f01fc3dd4430625dc1e095e99dd7704b5e5dbc6
+>>>>>>> 1cc19f7e9e664eb23b26ea00c601183d18c9aad2
 1. Searching while specifying a noticeboard often lists noticeboards other than the one submitted (I.e., reblogged?).
 1. Having empty search fields causes search to fail.
 1. The following needs better error handling:
