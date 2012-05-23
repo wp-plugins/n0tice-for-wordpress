@@ -54,7 +54,6 @@ This plugin has been created independently of [The Guardian](http://www.guardian
 
 == Known bugs ==
 
-1. Clicking "Add another criterion" spawns multiple criteria if there are multiple search fields.
 1. Searching while specifying a noticeboard often lists noticeboards other than the one submitted (I.e., reblogged?).
 1. Having empty search fields causes search to fail.
 1. The following needs better error handling:
